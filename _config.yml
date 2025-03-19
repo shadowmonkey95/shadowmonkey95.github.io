@@ -28,8 +28,10 @@ url: "https://shadowmonkey95.github.io"
 github:
   username: shadowmonkey95
 
-twitter:
-  username: 
+# twitter:
+#   username: 
+facebook:
+  username: vellosse.doofenshmirtz
 
 social:
   # Change to your full name.
@@ -98,7 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/portfolio_avatar.jpg 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
