@@ -12,6 +12,6 @@ I'm currently open to new opportunities in software engineering and AI research.
 
 - **Email:** [pham.dinh.vu@proton.me](mailto:pham.dinh.vu@proton.me)
 - **LinkedIn:** [linkedin.com/in/vu-pham-dinh](https://www.linkedin.com/in/vu-pham-dinh/)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **GitHub:** [github.com/shadowmonkey95](https://github.com/shadowmonkey95)
 
 Feel free to reach out for collaboration opportunities, job inquiries, or just to connect!
